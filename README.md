@@ -60,7 +60,7 @@ Setiap item memiliki minimal 3 atribut. Contoh struktur data item:
 1. Clone repository:
 
    ```bash
-   git clone https://github.com/USERNAME/NAMA-REPO.git
+   git clone [https://github.com/USERNAME/NAMA-REPO.git](https://github.com/berlianiutami/Tugas5_PPL.git)
    cd NAMA-REPO
    ```
 
