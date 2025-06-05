@@ -21,4 +21,5 @@ Setiap item memiliki minimal 3 atribut, contoh:
   "genre": "Action",
   "author": "Masashi Kishimoto"
 }
----
+
+-- Cara Menjalankan:
