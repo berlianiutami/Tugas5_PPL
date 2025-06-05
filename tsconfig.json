@@ -1,0 +1,16 @@
+{
+  "extends": "@adonisjs/tsconfig/tsconfig.app.json",
+  "compilerOptions": {
+    "types": [
+      "@adonisjs/core",
+      "@adonisjs/lucid"
+    ],
+    "baseUrl": ".",
+    "paths": {
+      "@ioc:Adonis/Lucid": ["node_modules/@adonisjs/lucid/build/src/index.js"],
+      "@ioc:Adonis/Lucid/*": ["node_modules/@adonisjs/lucid/build/src/*.js"],
+      "@ioc:Adonis/Core/*": ["node_modules/@adonisjs/core/build/standalone/*.js"]
+    }
+  }
+
+}
