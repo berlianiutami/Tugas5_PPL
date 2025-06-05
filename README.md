@@ -60,7 +60,7 @@ Setiap item memiliki minimal 3 atribut. Contoh struktur data item:
 1. Clone repository:
 
    ```bash
-   git clone [https://github.com/USERNAME/NAMA-REPO.git](https://github.com/berlianiutami/Tugas5_PPL.git)
+   git clone (https://github.com/berlianiutami/Tugas5_PPL.git)
    cd NAMA-REPO
    ```
 
@@ -102,7 +102,7 @@ Setiap item memiliki minimal 3 atribut. Contoh struktur data item:
 
 * Pastikan MySQL aktif dan database sudah dibuat sebelum menjalankan proyek.
 * Endpoint POST bisa diuji menggunakan Postman dengan konten JSON.
-* Belum tersedia frontend; proyek ini hanya menyediakan layanan API.
+* proyek ini hanya menyediakan layanan API.
 
 ---
 
