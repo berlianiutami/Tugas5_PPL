@@ -1,4 +1,4 @@
-
+# 📡 API Sederhana dengan AdonisJS
 
 
 Proyek ini merupakan tugas dari mata kuliah **Praktikum PPL** yang dikembangkan oleh **Kelompok 6**. API ini dibangun menggunakan [AdonisJS](https://adonisjs.com/) dan berfungsi untuk **menampilkan dan menambahkan data** bertema tertentu (misalnya: Komik, Karakter, Buku, dan lainnya) ke dalam database **MySQL**.
